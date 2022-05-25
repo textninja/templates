@@ -1,0 +1,18 @@
+{
+  "name": "gcp-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "watch": {
+    "start": "*.js"
+  },
+  "scripts": {
+    "start": "npx @google-cloud/functions-framework --target=helloWorld",
+    "watch": "npm-watch start"
+  },
+  "author": "Joe Taylor <joe@textninja.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "@google-cloud/functions-framework": "^3.1.1",
+    "npm-watch": "^0.11.0"
+  }
+}
