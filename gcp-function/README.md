@@ -1,6 +1,6 @@
 # Example cloud function
 
-This is a starter template which can be used to bootstrap development of Google Cloud Functions. It ain't much, but it's honest work.
+This is a starter template for bootstrapping development of Google Cloud Functions. A handful of files, really. It ain't much, but it's honest work!
 
 ## Usage
 
