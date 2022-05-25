@@ -10,7 +10,7 @@ This is a starter template for bootstrapping development of Google Cloud Functio
 
 ## Deployment
 
-To deploy this cloud function, use some variation of the commands below. Modify this for your use case or it won't work.
+To deploy this cloud function, use some variation of the commands below. Modify this for your use case (in particular, configuring the secrets, if any, and service accounts) or it won't work.
 
 ```console
 % SERVICE_ACCOUNT=email-for-service-account
